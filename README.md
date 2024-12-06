@@ -1,2 +1,3 @@
 # Sales-Dashboard
-I develop a comprehensive project in Power BI , create multiple dashboard and tables and analyze data . This process involve data preprocessing , data cleaning and data visualization . , 
+## Project Objective
+A company specializing in delivering computer hardware and peripheral manufacturing services to clients across India is facing challenges in understanding its business performance. Despite having multiple branches nationwide, the sales director struggles to identify and address issues causing a gradual decline in sales. The lack of a clear overview leads to frustration, especially when relying on regional managers for updates on sales and market conditions. As expected, human behavior makes it difficult for managers to interpret and act on data presented in Excel files, further complicating the decision-making process.
