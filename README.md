@@ -16,3 +16,4 @@ A company specializing in delivering computer hardware and peripheral manufactur
 3.In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
 4.In our top 5 products,the Prod318 is our highest product has generated total ₹ 69M revenue generated in 4 years.
 5.Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year. 
+
