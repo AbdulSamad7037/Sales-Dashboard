@@ -9,3 +9,10 @@ A company specializing in delivering computer hardware and peripheral manufactur
 5. Standardized multiple currency types in transactions by performing currency conversion for uniformity.
 6. Validated the accuracy and consistency of the data throughout the process.
 7. Designed and implemented a robust data model, followed by the creation of interactive and insightful visualizations in Power BI.
+
+# Insights
+1.In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M 
+2.In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 482M and total contribution of 49% with total revenue 
+3.In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
+4.In our top 5 products,the Prod318 is our highest product has generated total ₹ 69M revenue generated in 4 years.
+5.Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year 
