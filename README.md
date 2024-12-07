@@ -15,6 +15,10 @@ A company specializing in delivering computer hardware and peripheral manufactur
 - **Top Market**: Delhi NCR is the largest market, contributing ₹482M (49% of the total revenue) over 4 years.  
 - **Top Customer**: Among the top 5 customers, **Electricalsara Stores** is the biggest, generating ₹413M in revenue over 4 years.  
 - **Top Product**: Among the top 5 products, **Prod318** is the highest-selling product, generating ₹69M in revenue over 4 years.  
-- **Revenue Trend**: There was a significant decrease in revenue in **June 2020** compared to the revenue in the previous year.  
+- **Revenue Trend**: There was a significant decrease in revenue in **June 2020** compared to the revenue in the previous year.
+
+# Dashboard
+![Screenshot 2024-12-07 015222](https://github.com/user-attachments/assets/ed8b3714-4bb5-44ce-8e1d-10d695e2b62b)
+
 
 
